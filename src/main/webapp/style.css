@@ -1,3 +1,7 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.3/css/mdb.min.css);
+
+
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: 'Noto Sans', sans-serif; letter-spacing: 0px; font-size: 14px; color: #2e3139; font-weight: 400; line-height: 26px; background: -webkit-linear-gradient(left, #3931af, #00c6ff);}
 h1, h2, h3, h4, h5, h6 { letter-spacing: 0px; font-weight: 400; color: #1c1e22; margin: 0px 0px 15px 0px; font-family: 'Noto Sans', sans-serif; }
 h1 { font-size: 42px; line-height: 50px; }
@@ -53,3 +57,13 @@ input[type=radio].with-font:focus~label:before, input[type=checkbox].with-font:f
 .btn-default { background-color: #0943c6; color: #fff; border: 1px solid #0943c6; }
 .btn-default:hover { background-color: #063bb3; color: #fff; border: 1px solid #063bb3; }
 .btn-default.focus, .btn-default:focus { background-color: #063bb3; color: #fff; border: 1px solid #063bb3; }
+
+.card {
+	margin-top:50%;
+}
+
+#form {
+  background-color: #F9F9F9;
+  margin-top:8%;
+}
+
